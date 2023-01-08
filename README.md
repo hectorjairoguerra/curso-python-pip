@@ -1,2 +1,10 @@
 # curso-python-pip
-Curso python-pip en platzi
+
+# Game Project
+
+Para correr el juego debe seguir las siguientes instrucciones en la terminal
+```sh
+cd game
+python main.py
+
+```
